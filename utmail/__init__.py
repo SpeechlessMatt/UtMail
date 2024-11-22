@@ -1,6 +1,6 @@
 from .utmail import UtMail
 from .utmail import Api
-from .api.chacuo import ChacuoOption
+from .api import *
 
 __version__ = "0.1.4"
 
