@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(name='utmail',
-      version='0.1.5',
+      version='0.1.6',
       description='Offer a uniform interface for free temp mail.',
       long_description=long_description,    #包的详细介绍，一般在README.md文件内
       long_description_content_type="text/markdown",
