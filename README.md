@@ -1,10 +1,13 @@
 # 临时邮箱注册 TMail
 本项目引用chacuo.net的接口编写python库，包含loguru库用于日志记录
 
-## :book: 使用方法
+## 使用方法
 
-### 下载库
-```git clone```
+### 下载并导入库
+Git方式
+```git clone --depth=1 https://github.com/SpeechlessMatt/UtMail.git```
+pip方式
+```pip install utmail```
 ### 引用方法
 `from utmail import UtMail`
 
@@ -66,4 +69,7 @@ if __name__ == '__main__':
 
 ## 项目维护者
 [@Czy_4201b](https://github.com/SpeechlessMatt)
+
+## 开发者文档
+- 暂无文档
 
