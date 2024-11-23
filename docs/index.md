@@ -52,4 +52,4 @@ git clone https://github.com/SpeechlessMatt/UtMail.git
 
 # 让我们开始吧!
 - 🚀[制作一个简易自动收件箱](https://speechlessmatt.github.io/UtMail/quickstart.html)
-- [开发者文档](https://speechlessmatt.github.io/UtMail/index.html)
+- [开发者文档](https://speechlessmatt.github.io/UtMail/developer/develop_introduction.html)

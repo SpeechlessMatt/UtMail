@@ -6,7 +6,7 @@ nav_order: 3
 
 # ⚠ 开发注意事项
 ## 通过git clone拉取库
-[开发者文档](https://speechlessmatt.github.io/UtMail/index.html)
+[开发者文档](https://speechlessmatt.github.io/UtMail/developer/develop_introduction.html)
 
 ## 完成开发之后
 完成您的api接口开发之后，请在本项目提交commit，但是提交前，您还有一件事要做

@@ -16,4 +16,4 @@ nav_order: 3
 调用接口的时候至少十秒一次吧，我不希望让开放免费临时邮箱接口的作者难过 🙁
 
 ## 如何加入开发者大家庭？
-开发者文档
+[开发者文档](https://speechlessmatt.github.io/UtMail/developer/develop_introduction.html)
