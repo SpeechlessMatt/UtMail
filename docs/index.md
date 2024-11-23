@@ -39,6 +39,8 @@ git clone https://github.com/SpeechlessMatt/UtMail.git
 # 💪开源精神
 本项目使用MIT协议（The Massachusetts Institute of TechnologyLicense，麻省理工学院许可协议），接口和主程序皆完全开源，在必要的时候可以修改或者二次开发。
 
+<p id="mianze"></p>
+
 # 🤖 免责声明
 - 使用者利用本项目对接口造成破坏的，本开源库作者以及贡献者概不负责，均有使用者自行承担
 - 使用者利用本项目做违反国家法律，违反宪法精神等的错误行为，与本开源库作者以及贡献者无关，使用者承担相关法律责任

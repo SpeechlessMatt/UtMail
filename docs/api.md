@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # 支持的api接口表格
-<div style="width: 100%; height: 300px; overflow: auto;">
+<div style="width: 100%; height: 250px; overflow: auto;">
     <table>
         <tr>
             <th rowspan=2> api类名 </th>

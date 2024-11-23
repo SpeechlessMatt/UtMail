@@ -56,7 +56,7 @@ tm.delete_mail("21002456")
     </p>
 </blockquote>
 
-<a href="index.md/#-免责声明">免责声明</a>
+<a href="https://speechlessmatt.github.io/UtMail/#mianze">免责声明</a>
 
 **正确示例:**
 ```python
