@@ -1,4 +1,4 @@
-# 临时邮箱 TMail
+# 临时邮箱 UtMail
 <p align="center">
     <a href="https://github.com/SpeechlessMatt/UtMail" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
         <img src="https://img.shields.io/github/stars/SpeechlessMatt/UtMail" alt="Github Stars" />
