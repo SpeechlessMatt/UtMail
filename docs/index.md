@@ -19,6 +19,9 @@ nav_exclude: true
 
 由于本项目采取**插件式**的开发方式，开发者可以轻易地完成对一个临时邮箱服务器接口的开发，使用者也可以轻易地调用各种不同的临时邮箱完成（因为提供的方法是统一的，即使不同接口提供了不同的数据包，接口文件也会将他们统一起来）
 
+## 🎒项目仓库
+- github: https://github.com/SpeechlessMatt/UtMail
+
 # 📚 如何简单地下载？
 
 ## 下载方式
@@ -47,3 +50,6 @@ git clone https://github.com/SpeechlessMatt/UtMail.git
 - 本开源库的目的是防止个人隐私泄露，而提供统一、方便的工具
 - 若本开源库的接口侵犯了您网站的利益，请联系开源库作者删除有关接口
 
+# 让我们开始吧!
+- 🚀[制作一个简易自动收件箱](https://speechlessmatt.github.io/UtMail/quickstart.html)
+- [开发者文档](https://speechlessmatt.github.io/UtMail/index.html)

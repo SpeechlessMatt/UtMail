@@ -9,7 +9,7 @@ nav_order: 1
 
 <blockquote>
     <p dir="auto">
-如果你还没有安装本库，详情看 <a href="./index.md/#-如何简单地下载">这里</a>
+如果你还没有安装本库，详情看 <a href="https://speechlessmatt.github.io/UtMail/index.html">这里</a>
     </p>
 </blockquote>
 
