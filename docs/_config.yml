@@ -1,13 +1,13 @@
-title: Read The Docs Jekyll Theme
+title: 📫UtMail 临时邮箱-主页
 description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
 site_author: Carlos Pereira Atencio
 repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
-edit_on_github: true
+edit_on_github: false
 github_docs_folder: true
 sticky_navigation: true
 prev_next_buttons_location: bottom
-search_enabled: true
+search_enabled: false
 hljs_style: github-gist
