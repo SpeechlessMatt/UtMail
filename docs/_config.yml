@@ -6,9 +6,8 @@ remote_theme: carlosperate/jekyll-theme-rtd
 site_author: Carlos Pereira Atencio
 repo_url: "https://github.com/SpeechlessMatt/UtMail"
 edit_on_github: false
-markdown: GFM
 github_docs_folder: true
 sticky_navigation: true
 prev_next_buttons_location: bottom
-search_enabled: false
+search_enabled: true
 hljs_style: github-gist

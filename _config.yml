@@ -9,7 +9,6 @@ webrick:
 # Theme settings
 site_author: Czy_4201b
 repo_url: 'https://github.com/SpeechlessMatt/UtMail'
-markdown: GFM
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
