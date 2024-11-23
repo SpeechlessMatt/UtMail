@@ -92,6 +92,9 @@ if __name__ == '__main__':
 ## 项目维护者
 [@Czy_4201b](https://github.com/SpeechlessMatt)
 
+## 版本建议
+0.1.8之前的版本不一定能正常使用，建议使用版本>=0.1.8
+
 ## 开发者文档
 - [开发者文档](https://speechlessmatt.github.io/UtMail/developer/develop_introduction.html)
 
