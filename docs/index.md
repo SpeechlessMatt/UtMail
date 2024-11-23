@@ -20,7 +20,7 @@ nav_exclude: true
 由于本项目采取**插件式**的开发方式，开发者可以轻易地完成对一个临时邮箱服务器接口的开发，使用者也可以轻易地调用各种不同的临时邮箱完成（因为提供的方法是统一的，即使不同接口提供了不同的数据包，接口文件也会将他们统一起来）
 
 ## 🎒项目仓库
-- github: https://github.com/SpeechlessMatt/UtMail
+- github: [https://github.com/SpeechlessMatt/UtMail](https://github.com/SpeechlessMatt/UtMail)
 
 # 📚 如何简单地下载？
 
