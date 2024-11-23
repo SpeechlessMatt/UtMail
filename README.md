@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/github/stars/SpeechlessMatt/UtMail" alt="Github Stars" />
     </a>
     <a href="https://github.com/SpeechlessMatt/UtMail" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
-        <img src="https://img.shields.io/github/stars/SpeechlessMatt/UtMail" alt="Github Forks" />
+        <img src="https://img.shields.io/github/forks/SpeechlessMatt/UtMail" alt="Github Forks" />
     </a>
     <a href="https://github.com/SpeechlessMatt/UtMail" target="_blank" style="margin-right: 20px; font-style: normal; text-decoration: none;">
         <img src="https://img.shields.io/github/languages/code-size/SpeechlessMatt/UtMail" alt="Code-size" />
