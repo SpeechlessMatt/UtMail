@@ -17,7 +17,7 @@ nav_order: 1
 
 ### 1. 导入utmail
 
-下载完成后，使用 <font color=#c71fa8>import</font> 导入包：
+下载完成后，使用 `import` 导入包：
 
 ```python
 from utmail import UtMail
