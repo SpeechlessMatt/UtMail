@@ -6,7 +6,12 @@ nav_order: 1
 
 # 🚀 制作一个简易自动收件箱
 让我们开始做一个简单的程序吧~😀
-> 如果你还没有安装本库，详情看[这里](index.md)
+
+<blockquote>
+    <p dir="auto">
+如果你还没有安装本库，详情看 <a href="./index.md/#-如何简单地下载">这里</a>
+    </p>
+</blockquote>
 
 ## 📕 步骤
 
@@ -45,7 +50,13 @@ email = tm.read_mail("2102456")
 tm.delete_mail("21002456")
 ```
 
-> **⚠ 警告：** 调用get_account(),read_mail()等方法的时候会使用requests向服务器发送请求，<font color=red>切勿频繁发送请求，对接口造成破坏</font> [免责声明](index.md)
+<blockquote>
+    <p dir="auto">
+<strong>⚠ 警告：</strong>调用get_account(),read_mail()等方法的时候会使用requests向服务器发送请求，<font color=red>切勿频繁发送请求，对接口造成破坏</font>
+    </p>
+</blockquote>
+
+<a href="index.md/#-免责声明">免责声明</a>
 
 **正确示例:**
 ```python
